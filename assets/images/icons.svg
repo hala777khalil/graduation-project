@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  
+  <symbol id="icon-recycle" viewBox="0 0 512 512">
+    <path fill="#28A745" d="M184.561 261.903c3.232 13.997 12.658 24.107 24.531 24.107 7.743 0 15.138-3.65 20.272-10.027l7.442-9.241c.535-.665.972-1.383 1.305-2.135l-6.378-4.204c-1.574.862-3.334 1.351-5.193 1.351-4.264 0-8.105-2.565-9.731-6.529l-25.899-63.415c-1.626-3.964-1.173-8.486 1.217-12.146l13.062-20.014c2.39-3.66 6.427-5.851 10.837-5.851h68.989c4.264 0 8.105 2.565 9.731 6.529l25.899 63.415c1.626 3.964 1.173 8.486-1.217 12.146l-13.062 20.014c-2.39 3.66-6.427 5.851-10.837 5.851h-40.5c-5.799 0-10.5-4.701-10.5-10.5s4.701-10.5 10.5-10.5h27.999l9.233-14.146-18.134-44.424h-48.491l-9.233 14.146 18.134 44.424h9.858c.551 0 1.092.044 1.622.128l-.128.171c-5.356 6.651-13.236 10.701-21.676 10.701-17.645 0-33.104-14.278-37.189-34.316-.448-2.194.632-4.396 2.596-5.286l47.117-21.364c1.964-.89 4.273-.128 5.549 1.832 1.276 1.96 1.001 4.515-.659 6.142l-31.989 31.337z"/>
+    <path fill="#FFD700" d="M469.168 181.47l-51.599-89.366c-3.727-6.452-10.602-10.441-18.042-10.441h-34.12c-7.44 0-14.315 3.989-18.042 10.441l-25.8 44.683c-1.863 3.226-1.863 7.207 0 10.433l13.843 23.971c1.863 3.226 5.301 5.216 9.021 5.216h26.56l16.924 29.316-36.269 21.839-32.85-56.896h-19.715c-3.72 0-7.158-1.99-9.021-5.216l-13.843-23.971c-1.863-3.226-1.863-7.207 0-10.433l25.8-44.683c3.727-6.452 10.602-10.441 18.042-10.441h103.198c17.88 0 34.406 9.572 43.326 25.104l51.599 89.366c8.92 15.532 8.92 34.677 0 50.209l-25.8 44.683c-8.92 15.532-25.446 25.104-43.326 25.104h-17.28c-5.799 0-10.5-4.701-10.5-10.5s4.701-10.5 10.5-10.5h17.28c7.44 0 14.315-3.989 18.042-10.441l25.8-44.683c3.727-6.452 3.727-14.43 0-20.882z"/>
+    <path fill="#0066CC" d="M149.37 231.536l51.599 89.366c3.727 6.452 3.727 14.43 0 20.882l-25.8 44.683c-3.727 6.452-10.602 10.441-18.042 10.441h-68.559c-7.44 0-14.315-3.989-18.042-10.441l-51.599-89.366c-8.92-15.532-8.92-34.677 0-50.209l25.8-44.683c8.92-15.532 25.446-25.104 43.326-25.104h34.12c5.799 0 10.5 4.701 10.5 10.5s-4.701 10.5-10.5 10.5h-34.12c-7.44 0-14.315 3.989-18.042 10.441l-25.8 44.683c-3.727 6.452-3.727 14.43 0 20.882l51.599 89.366c3.727 6.452 10.602 10.441 18.042 10.441h68.559c7.44 0 14.315-3.989 18.042-10.441l25.8-44.683c3.727-6.452 3.727-14.43 0-20.882l-51.599-89.366c-1.863-3.226-5.301-5.216-9.021-5.216h-26.56l-16.924-29.316 36.269-21.839 32.85 56.896h19.715c3.72 0 7.158 1.99 9.021 5.216l13.843 23.971c1.863 3.226 1.863 7.207 0 10.433z"/>
+  </symbol>
+
+  <symbol id="icon-dashboard" viewBox="0 0 24 24">
+    <rect x="3" y="3" width="7" height="7" rx="1" fill="#0066CC"/>
+    <rect x="14" y="3" width="7" height="7" rx="1" fill="#FFD700"/>
+    <rect x="3" y="14" width="7" height="7" rx="1" fill="#28A745"/>
+    <rect x="14" y="14" width="7" height="7" rx="1" fill="#6F42C1"/>
+  </symbol>
+
+  <symbol id="icon-star" viewBox="0 0 24 24">
+    <path fill="url(#starGradient)" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+    <defs>
+      <linearGradient id="starGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </symbol>
+
+  <symbol id="icon-activity" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="10" fill="#E3F2FD"/>
+    <path fill="#0066CC" d="M16.24 7.76A6 6 0 0 1 18 12v.5a.5.5 0 0 1-1 0V12a5 5 0 1 0-5 5h.5a.5.5 0 0 1 0 1H12a6 6 0 1 1 4.24-10.24z"/>
+    <path fill="#FFD700" d="M13.5 6a.5.5 0 0 1 .5.5v5a.5.5 0 0 1-.146.354l-3 3a.5.5 0 0 1-.708-.708L13 11.293V6.5a.5.5 0 0 1 .5-.5z"/>
+  </symbol>
+
+  <symbol id="icon-weight" viewBox="0 0 24 24">
+    <rect x="4" y="10" width="16" height="10" rx="2" fill="#D4EDDA"/>
+    <path fill="#28A745" d="M6 10h12v8H6z"/>
+    <circle cx="12" cy="14" r="2" fill="#FFD700"/>
+    <path fill="#0066CC" d="M8 6l4 4 4-4z"/>
+  </symbol>
+
+  <symbol id="icon-trophy" viewBox="0 0 24 24">
+    <path fill="#FFD700" d="M12 2c.6 0 1 .4 1 1v1h3c.6 0 1 .4 1 1v3c0 2.2-1.8 4-4 4h-.2c-.5 1.2-1.4 2.1-2.6 2.6V18h2c.6 0 1 .4 1 1v2c0 .6-.4 1-1 1H8c-.6 0-1-.4-1-1v-2c0-.6.4-1 1-1h2v-3.4c-1.2-.5-2.1-1.4-2.6-2.6H7c-2.2 0-4-1.8-4-4V5c0-.6.4-1 1-1h3V3c0-.6.4-1 1-1h4zm-1 2H9v2h4V4h-2zM5 6v2c0 1.1.9 2 2 2h1V6H5zm8 4h1c1.1 0 2-.9 2-2V6h-3v4z"/>
+    <circle cx="12" cy="8" r="1.5" fill="#E74C3C"/>
+  </symbol>
+
+  <symbol id="icon-add" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="10" fill="url(#addGradient)"/>
+    <path fill="white" d="M12 6v12M6 12h12" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <defs>
+      <linearGradient id="addGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#28A745;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#20C997;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </symbol>
+
+  <symbol id="icon-list" viewBox="0 0 24 24">
+    <rect x="4" y="5" width="16" height="3" rx="1" fill="#0066CC"/>
+    <rect x="4" y="10.5" width="16" height="3" rx="1" fill="#FFD700"/>
+    <rect x="4" y="16" width="16" height="3" rx="1" fill="#6F42C1"/>
+  </symbol>
+
+  <symbol id="icon-user" viewBox="0 0 24 24">
+    <circle cx="12" cy="8" r="4" fill="#0066CC"/>
+    <path fill="#FFD700" d="M12 14c-5 0-9 2.5-9 6v2h18v-2c0-3.5-4-6-9-6z"/>
+  </symbol>
+
+  <symbol id="icon-logout" viewBox="0 0 24 24">
+    <path fill="#DC3545" d="M5 3h10c1.1 0 2 .9 2 2v4h-2V5H5v14h10v-4h2v4c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2z"/>
+    <path fill="#E74C3C" d="M17.5 12l-4-4v3H9v2h4.5v3l4-4z" transform="translate(3,0)"/>
+  </symbol>
+
+  <symbol id="icon-plastic" viewBox="0 0 64 64">
+    <ellipse cx="32" cy="48" rx="12" ry="8" fill="#B3E5FC"/>
+    <rect x="26" y="16" width="12" height="32" rx="2" fill="#4FC3F7"/>
+    <rect x="28" y="12" width="8" height="4" rx="2" fill="#29B6F6"/>
+    <circle cx="32" cy="32" r="2" fill="#81D4FA"/>
+  </symbol>
+
+  <symbol id="icon-paper" viewBox="0 0 64 64">
+    <rect x="16" y="8" width="32" height="48" rx="2" fill="#FFF9C4"/>
+    <path fill="#FDD835" d="M20 16h24v2H20zM20 24h24v2H20zM20 32h24v2H20zM20 40h16v2H20z"/>
+  </symbol>
+
+  <symbol id="icon-glass" viewBox="0 0 64 64">
+    <path fill="#C5E1A5" d="M24 8h16l-4 48H28z"/>
+    <ellipse cx="32" cy="10" rx="8" ry="3" fill="#AED581"/>
+    <path fill="#9CCC65" opacity="0.3" d="M26 20h12v30H26z"/>
+  </symbol>
+
+  <symbol id="icon-metal" viewBox="0 0 64 64">
+    <rect x="20" y="12" width="24" height="40" rx="2" fill="#CFD8DC"/>
+    <circle cx="32" cy="32" r="8" fill="#90A4AE"/>
+    <circle cx="32" cy="32" r="4" fill="#607D8B"/>
+  </symbol>
+
+  <symbol id="icon-electronics" viewBox="0 0 64 64">
+    <rect x="12" y="16" width="40" height="28" rx="2" fill="#B39DDB"/>
+    <rect x="16" y="20" width="32" height="18" fill="#9575CD"/>
+    <rect x="26" y="44" width="12" height="4" fill="#7E57C2"/>
+    <rect x="20" y="48" width="24" height="4" rx="2" fill="#673AB7"/>
+  </symbol>
+
+  <symbol id="icon-cardboard" viewBox="0 0 64 64">
+    <rect x="12" y="16" width="40" height="32" rx="2" fill="#FFCC80"/>
+    <path fill="#FF9800" d="M16 20h32v4H16zM16 28h32v4H16zM16 36h32v4H16z"/>
+  </symbol>
+
+  <symbol id="icon-map" viewBox="0 0 24 24">
+    <path fill="#4FC3F7" d="M20.5 3l-.16.03L15 5.1 9 3 3.36 4.9c-.21.07-.36.25-.36.48V20.5c0 .28.22.5.5.5l.16-.03L9 18.9l6 2.1 5.64-1.9c.21-.07.36-.25.36-.48V3.5c0-.28-.22-.5-.5-.5zM15 19l-6-2.11V5l6 2.11V19z"/>
+    <circle cx="12" cy="12" r="3" fill="#E74C3C"/>
+    <circle cx="12" cy="12" r="1.5" fill="white"/>
+  </symbol>
+
+</svg>
+
+
