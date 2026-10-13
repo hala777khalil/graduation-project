@@ -35,11 +35,14 @@ Graduation project: a web platform that encourages recycling by letting users lo
 ## 🔑 Demo Accounts
 The sample data includes an admin account (`admin@ecorecycle.com`) and sample users. The sample password hash is the standard demo hash — change all passwords before any real deployment.
 
-## 📸 Screenshots
-_Add screenshots of the website here._
+
 
 ## 📄 Documentation
 Project report: *Web-Based Recycling Activity and Awareness System* (Chapters 1–5).
 
-## 👩‍💻 Author
-Hala Khalil — [GitHub](https://github.com/hala777khalil)
+## 👥 Team
+
+- Hala Khalil Al-huzali ([GitHub](https://github.com/hala777khalil))
+- Mshael
+- Aryaf
+- Sara
